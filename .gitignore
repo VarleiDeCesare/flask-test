@@ -1,0 +1,23 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Arquivos Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+api_env
+
+# Banco de dados SQLite (se for de teste)
+*.db
+
+# Configurações IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
