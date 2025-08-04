@@ -10,6 +10,7 @@ __pycache__/
 *.pyd
 
 api_env
+instance
 
 # Banco de dados SQLite (se for de teste)
 *.db
